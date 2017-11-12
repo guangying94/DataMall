@@ -1,0 +1,18 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */10 * * * *"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "trafficimage/{cameraID}",
+      "connection": "<storage account name>",
+      "direction": "out"
+    }
+  ],
+  "disabled": true
+}
