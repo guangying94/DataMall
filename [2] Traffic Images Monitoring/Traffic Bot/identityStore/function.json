@@ -1,0 +1,26 @@
+{
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "post"
+      ],
+      "authLevel": "function"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "table",
+      "name": "outTable",
+      "tableName": "uesrIdentity",
+      "connection": "<table storage name>",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
