@@ -1,0 +1,67 @@
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Bot Application.dll.config
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Bot Application.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Bot Application.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\AdaptiveCards.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Autofac.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Chronic.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Newtonsoft.Json.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.Net.Http.Formatting.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.Web.Http.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.Web.Http.WebHost.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Autofac.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Newtonsoft.Json.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.Net.Http.Formatting.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.Web.Http.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\System.Web.Http.WebHost.xml
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\obj\Debug\datamall_bot.csproj.CoreCompileInputs.cache
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\obj\Debug\datamall_bot.csproj.CopyComplete
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\obj\Debug\Bot Application.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\obj\Debug\Bot Application.pdb
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\bin\Microsoft.Bot.Builder.Location.dll
+C:\Users\gutee\source\repos\datamall_bot\datamall_bot\obj\Debug\datamall_bot.csprojAssemblyReference.cache

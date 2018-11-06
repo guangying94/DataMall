@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\gutee\\Desktop\\datamall_bot\\datamall_bot\\datamall_bot.csproj",
+  "TargetFramework": "v4.6",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
